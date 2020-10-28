@@ -12,9 +12,7 @@
 - 📫 [You reach me quickly on Telegram](https://t.me/casa98) 
 - 😄 Pronouns: Self-motivated, extroverted, responsible, always learning.
 - ⚡ Fun fact: I reallyyyy love going to the stadium where my soccer team plays, sing, scream, jump, cry. No other place where so much thrill can be felt 😉
-
 <code>
   <hr>
 </code>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casa98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
