@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working ...-->
-- 🌱 I’m currently learning Android development (in love with it) and Flutter. Also know some Web development fundamentals but my passion is definitely Android.
+- 🌱 I’m currently working with Flutter, while learning also Mobile Development. Also know some Web development fundamentals but my passion is definitely Mobile.
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about everything, I'll help if I know. I have an Open-Source spirit :)
